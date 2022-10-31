@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 </table>
 
 <h3>Founded open source project</h3>
-<a href="https://github.com/pydicom/pydicom"><b>Generate ERD UML file from Schema DDL file</b></a>
+<a href="https://github.com/youngkiu/schema-to-erd"><b>Generate ERD UML file from Schema DDL file</b></a>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/youngkiu/schema-to-erd?style=social">
