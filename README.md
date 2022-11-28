@@ -44,6 +44,11 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/cpederkoff/stl-to-voxel?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square"><img alt="Closed PR" src="https://img.shields.io/badge/-9%20closed-dfb317?style=flat-square"></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Legrandin/pycryptodome"><b>A self-contained cryptographic library for Python</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Legrandin/pycryptodome?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square"><img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square"></td>
+    </tr>
   </tbody>
 </table>
 
