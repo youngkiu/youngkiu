@@ -37,17 +37,42 @@ Here are some ideas to get you started:
     <tr>
       <td><a href="https://github.com/pydicom/pydicom"><b>Read, modify and write DICOM files with python code</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pydicom/pydicom?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square"><img alt="Closed PR" src="https://img.shields.io/badge/-4%20closed-dfb317?style=flat-square"></td>
+      <td>
+        <a href="https://github.com/pydicom/pydicom/commits?author=youngkiu">
+          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
+          <img alt="Closed PR" src="https://img.shields.io/badge/-4%20closed-dfb317?style=flat-square">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/cpederkoff/stl-to-voxel"><b>Turn STL files into voxels, images, and videos</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/cpederkoff/stl-to-voxel?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square"><img alt="Closed PR" src="https://img.shields.io/badge/-9%20closed-dfb317?style=flat-square"></td>
+      <td>
+        <a href="https://github.com/cpederkoff/stl-to-voxel/commits?author=youngkiu">
+          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
+          <img alt="Closed PR" src="https://img.shields.io/badge/-9%20closed-dfb317?style=flat-square">
+        </a>
+      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Legrandin/pycryptodome"><b>A self-contained cryptographic library for Python</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Legrandin/pycryptodome?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square"><img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square"></td>
+      <td>
+        <a href="https://github.com/Legrandin/pycryptodome/commits?author=youngkiu">
+          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
+          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/typeorm/typeorm"><b>ORM for TypeScript and JavaScript. <br>Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. <br>Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/typeorm/typeorm?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/typeorm/typeorm/commits?author=youngkiu">
+          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
+          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
