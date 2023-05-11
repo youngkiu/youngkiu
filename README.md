@@ -65,7 +65,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/typeorm/typeorm"><b>ORM for TypeScript and JavaScript. <br>Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. <br>Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</b></a></td>
+      <td><a href="https://github.com/typeorm/typeorm"><b>ORM for TypeScript and JavaScript. <br>Supports MySQL, PostgreSQL, MariaDB, SQLite, <br>&nbsp;&nbsp;&nbsp;&nbsp;MS SQL Server, Oracle, SAP Hana, WebSQL databases. <br>Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/typeorm/typeorm?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/typeorm/typeorm/commits?author=youngkiu">
@@ -74,6 +74,16 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/tosspayments/brandpay-sample"><b>toss payments brandpay sample project</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tosspayments/brandpay-sample?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/tosspayments/brandpay-sample/commits?author=youngkiu">
+          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
+          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+        </a>
+      </td>
+    </tr>    
   </tbody>
 </table>
 
