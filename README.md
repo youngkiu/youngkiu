@@ -94,6 +94,16 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/pinojs/pino-http"><b>🌲 high-speed HTTP logger for Node.js</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pinojs/pino-http?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/pinojs/pino-http/commits?author=youngkiu">
+          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
+          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
