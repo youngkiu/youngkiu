@@ -85,7 +85,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/pinojs/pino"><b>super fast, all natural json logger</b></a></td>
+      <td><a href="https://github.com/pinojs/pino"><b>🌲 super fast, all natural json logger</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pinojs/pino?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/pinojs/pino/commits?author=youngkiu">
