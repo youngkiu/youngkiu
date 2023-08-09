@@ -39,8 +39,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pydicom/pydicom?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/pydicom/pydicom/commits?author=youngkiu">
-          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
-          <img alt="Closed PR" src="https://img.shields.io/badge/-4%20closed-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-4%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
@@ -49,8 +48,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/cpederkoff/stl-to-voxel?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/cpederkoff/stl-to-voxel/commits?author=youngkiu">
-          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
-          <img alt="Closed PR" src="https://img.shields.io/badge/-9%20closed-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-9%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
@@ -59,8 +57,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Legrandin/pycryptodome?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/Legrandin/pycryptodome/commits?author=youngkiu">
-          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
-          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
@@ -69,8 +66,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/typeorm/typeorm?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/typeorm/typeorm/commits?author=youngkiu">
-          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
-          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
@@ -79,8 +75,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tosspayments/brandpay-sample?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/tosspayments/brandpay-sample/commits?author=youngkiu">
-          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
-          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
@@ -89,8 +84,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pinojs/pino?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/pinojs/pino/commits?author=youngkiu">
-          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
-          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
@@ -99,8 +93,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pinojs/pino-http?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/pinojs/pino-http/commits?author=youngkiu">
-          <img alt="Pull Requests" src="https://img.shields.io/badge/-pull%20request-343b41?style=flat-square">
-          <img alt="Closed PR" src="https://img.shields.io/badge/-1%20closed-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
