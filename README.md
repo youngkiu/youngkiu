@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngkiu&show_icons=true&locale=en" alt="youngkiu" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngkiu&" alt="youngkiu" />
+
 <h3>Contributed open source projects</h3>
 <table>
   <thead align="center">
