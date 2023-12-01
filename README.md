@@ -100,6 +100,15 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/dynamoose/dynamoose"><b>Dynamoose is a modeling tool for Amazon's DynamoDB</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/dynamoose/dynamoose?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/dynamoose/dynamoose/commits?author=youngkiu">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
