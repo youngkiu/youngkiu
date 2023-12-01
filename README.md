@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/pydicom/pydicom"><b>Read, modify and write DICOM files with python code</b></a></td>
+      <td><a href="https://github.com/pydicom/pydicom"><b>pydicom</b> - Read, modify and write DICOM files with python code</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pydicom/pydicom?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/pydicom/pydicom/commits?author=youngkiu">
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/cpederkoff/stl-to-voxel"><b>Turn STL files into voxels, images, and videos</b></a></td>
+      <td><a href="https://github.com/cpederkoff/stl-to-voxel"><b>stl-to-voxel</b> - Turn STL files into voxels, images, and videos</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/cpederkoff/stl-to-voxel?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/cpederkoff/stl-to-voxel/commits?author=youngkiu">
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Legrandin/pycryptodome"><b>A self-contained cryptographic library for Python</b></a></td>
+      <td><a href="https://github.com/Legrandin/pycryptodome"><b>pycryptodome</b> - A self-contained cryptographic library for Python</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Legrandin/pycryptodome?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/Legrandin/pycryptodome/commits?author=youngkiu">
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/typeorm/typeorm"><b>ORM for TypeScript and JavaScript. <br>Supports MySQL, PostgreSQL, MariaDB, SQLite, <br>&nbsp;&nbsp;&nbsp;&nbsp;MS SQL Server, Oracle, SAP Hana, WebSQL databases. <br>Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.</b></a></td>
+      <td><a href="https://github.com/typeorm/typeorm"><b>typeorm</b> - ORM for TypeScript and JavaScript.</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/typeorm/typeorm?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/typeorm/typeorm/commits?author=youngkiu">
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tosspayments/brandpay-sample"><b>toss payments brandpay sample project</b></a></td>
+      <td><a href="https://github.com/tosspayments/brandpay-sample"><b>brandpay-sample</b> - toss payments brandpay sample project</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/tosspayments/brandpay-sample?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/tosspayments/brandpay-sample/commits?author=youngkiu">
@@ -83,7 +83,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/pinojs/pino"><b>🌲 super fast, all natural json logger</b></a></td>
+      <td><a href="https://github.com/pinojs/pino"><b>pino</b> - 🌲 super fast, all natural json logger</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pinojs/pino?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/pinojs/pino/commits?author=youngkiu">
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/pinojs/pino-http"><b>🌲 high-speed HTTP logger for Node.js</b></a></td>
+      <td><a href="https://github.com/pinojs/pino-http"><b>pino-http</b> - 🌲 high-speed HTTP logger for Node.js</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pinojs/pino-http?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/pinojs/pino-http/commits?author=youngkiu">
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dynamoose/dynamoose"><b>Dynamoose is a modeling tool for Amazon's DynamoDB</b></a></td>
+      <td><a href="https://github.com/dynamoose/dynamoose"><b>dynamoose</b> - Dynamoose is a modeling tool for Amazon's DynamoDB</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/dynamoose/dynamoose?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/dynamoose/dynamoose/commits?author=youngkiu">
