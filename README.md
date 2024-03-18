@@ -114,7 +114,7 @@ Here are some ideas to get you started:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/nestjs/nest?style=flat-square&labelColor=343b41"/></td>
       <td>
         <a href="https://github.com/nestjs/nest/commits?author=youngkiu">
-          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-3%20merged-dfb317?style=flat-square">
         </a>
       </td>
     </tr>
