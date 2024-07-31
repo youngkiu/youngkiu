@@ -74,15 +74,6 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tosspayments/brandpay-sample"><b>brandpay-sample</b> - toss payments brandpay sample project</a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tosspayments/brandpay-sample?style=flat-square&labelColor=343b41"/></td>
-      <td>
-        <a href="https://github.com/tosspayments/brandpay-sample/commits?author=youngkiu">
-          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/pinojs/pino"><b>pino</b> - 🌲 super fast, all natural json logger</a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pinojs/pino?style=flat-square&labelColor=343b41"/></td>
       <td>
