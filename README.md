@@ -24,8 +24,19 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngkiu&show_icons=true&locale=en" alt="youngkiu" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngkiu&" alt="youngkiu" />
+<h3> Toy Projects </h3>
+<ul>
+  <li>Web</li>
+    <ul>
+      <li><a href="https://nestjs-kakaologin-youngkiu.koyeb.app/">Chat</a></li>
+    </ul>
+  <li>App</li>
+    <ol>
+      <li>Toilet Password - <a href="https://play.google.com/store/apps/details?id=com.youngki_home.toilet_password">Android</a></li>
+      <li>맛도리 지도 - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map">Android</a>, <a href="https://apps.apple.com/us/app/맛도리-지도/id6471900309">iOS</a></li>
+      <li>카드 뭐내지? - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm">Android</a></li>
+    </ol>
+</ul>
 
 <h3>Contributed open source projects</h3>
 <table>
@@ -141,3 +152,8 @@ Here are some ideas to get you started:
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/youngkiu/pino-slack-webhook?style=social">
   </li>
 </ul>
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=youngkiu&show_icons=true&locale=en" alt="youngkiu" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngkiu&" alt="youngkiu" />
