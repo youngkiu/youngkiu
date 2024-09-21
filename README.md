@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <ul>
   <li>Web</li>
     <ul>
-      <li><a href="https://nestjs-kakaologin-youngkiu.koyeb.app/">Chat</a></li>
+      <li><a href="https://nestjs-kakaologin-youngkiu.koyeb.app/">Chat</a>(<a href="https://github.com/youngkiu/nestjs-kakaologin">repository</a>)</li>
     </ul>
   <li>App</li>
     <ol>
