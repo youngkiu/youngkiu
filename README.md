@@ -33,8 +33,8 @@ Here are some ideas to get you started:
   <li>App</li>
     <ol>
       <li>Toilet Password - <a href="https://play.google.com/store/apps/details?id=com.youngki_home.toilet_password">Android</a></li>
-      <li>맛도리 지도 - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map">Android</a>, <a href="https://apps.apple.com/us/app/맛도리-지도/id6471900309">iOS</a></li>
-      <li>카드 뭐내지? - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm">Android</a> (<a href="https://www.youtube.com/@CreditCardAlarm">소개</a>)</li>
+      <li><b>맛도리 지도</b> - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map">Android</a>, <a href="https://apps.apple.com/us/app/맛도리-지도/id6471900309">iOS</a></li>
+      <li><b>카드 뭐내지?</b> - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm">Android</a> (<a href="https://www.youtube.com/@CreditCardAlarm">소개</a>)</li>
     </ol>
 </ul>
 
