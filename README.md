@@ -28,13 +28,14 @@ Here are some ideas to get you started:
 <ul>
   <li>Web</li>
     <ul>
-      <li><a href="https://nestjs-kakaologin-youngkiu.koyeb.app/">Chat</a> (<a href="https://github.com/youngkiu/nestjs-kakaologin">repository</a>)</li>
+      <li><a href="https://nestjs-kakaologin-youngkiu.koyeb.app/">Chat</a> (<a href="https://github.com/youngkiu/nestjs-kakaologin">repository</a>) : nestjs, socket.io</li>
     </ul>
   <li>App</li>
     <ol>
-      <li>Toilet Password - <a href="https://play.google.com/store/apps/details?id=com.youngki_home.toilet_password">Android</a></li>
-      <li><b>맛도리 지도</b> - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map">Android</a>, <a href="https://apps.apple.com/us/app/맛도리-지도/id6471900309">iOS</a></li>
-      <li><b>카드 뭐내지?</b> - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm">Android</a> (<a href="https://www.youtube.com/@CreditCardAlarm">소개</a>)</li>
+      <li>Toilet Password : flutter - <a href="https://play.google.com/store/apps/details?id=com.youngki_home.toilet_password">Android</a></li>
+      <li><b>맛도리 지도</b> : gis - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map">Android</a>, <a href="https://apps.apple.com/us/app/맛도리-지도/id6471900309">iOS</a></li>
+      <li><b>카드 뭐내지?</b> : app push, web crawler - <a href="https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm">Android</a> (<a href="https://www.youtube.com/@CreditCardAlarm">소개</a>)</li>
+      <li><b>종점 출발 버스</b> : graphql - Android, iOS (진행중)</li>
     </ol>
 </ul>
 
