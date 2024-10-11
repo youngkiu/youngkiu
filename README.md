@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   - [Chat](https://nestjs-kakaologin-youngkiu.koyeb.app/) ([repository](https://github.com/youngkiu/nestjs-kakaologin)) : **nestjs**, **oauth**, **socket.io**
 - App
   1. Toilet Password : **flutter** - [Android](https://play.google.com/store/apps/details?id=com.youngki_home.toilet_password)
-  2. 맛도리 지도 : **gis** - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map), [iOS](https://apps.apple.com/us/app/맛도리-지도/id6471900309)
-  3. 카드 뭐내지? : **app push**, **web crawler** - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm) ([소개](https://www.youtube.com/@CreditCardAlarm))
-  4. 종점 출발 버스 : **graphql** - Android, iOS (진행중)
+  2. 맛도리 지도 : **gis**, **web crawler** - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map), [iOS](https://apps.apple.com/us/app/맛도리-지도/id6471900309)
+  3. 카드 뭐내지? : **app push** - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm) ([소개](https://www.youtube.com/@CreditCardAlarm))
+  4. 종점 출발 버스 : **graphql** - Android, [iOS](https://apps.apple.com/kr/app/종점-출발-버스/id6736763977)
 
 <h3>Contributed open source projects</h3>
 <table>
