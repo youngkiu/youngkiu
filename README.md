@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   2. 맛도리 지도 : **GIS**, **Web Crawler**, PostgreSQL(PostGIS) - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.tasty_map), [iOS](https://apps.apple.com/us/app/맛도리-지도/id6471900309)
   3. 카드 뭐내지? : **App Push**, MariaDB - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm) ([소개](https://www.youtube.com/@CreditCardAlarm))
   4. 종점 출발 버스 : **GraphQL**, MongoDB - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.busdeparture), [iOS](https://apps.apple.com/kr/app/종점-출발-버스/id6736763977)
+  5. 복용일지 : **i18n(l10n)**, firebase login - Android, iOS
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youngkiu)](https://git.io/streak-stats)
 
 <h3>Contributed open source projects</h3>
 <table>
@@ -153,3 +156,5 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=youngkiu&show_icons=true&locale=en" alt="youngkiu" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youngkiu&" alt="youngkiu" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youngkiu)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=youngkiu" alt="GitHub Streak" /></a>
