@@ -136,6 +136,15 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/larryaasen/upgrader"><b>upgrader</b> - A Flutter package for prompting users to upgrade when there is a newer version of the app in the store.</a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/larryaasen/upgrader?style=flat-square&labelColor=343b41"/></td>
+      <td>
+        <a href="https://github.com/larryaasen/upgrader/commits?author=youngkiu">
+          <img alt="Merged PR" src="https://img.shields.io/badge/-1%20merged-dfb317?style=flat-square">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
