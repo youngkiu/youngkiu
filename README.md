@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   3. 카드 뭐내지? : **App Push**, MariaDB - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.card_alarm) ([소개](https://www.youtube.com/@CreditCardAlarm))
   4. 종점 출발 버스 : **GraphQL**, MongoDB - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.busdeparture), [iOS](https://apps.apple.com/kr/app/종점-출발-버스/id6736763977)
   5. 복용일지 : **i18n(l10n)**, firebase login - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.pilltime), [iOS](https://apps.apple.com/kr/app/복용일지/id6742696831)
-  6. 주식 무릎/어깨 알리미 : Stock Alert, **Biometric Auth** - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.stock_knee_shoulder), [iOS](https://apps.apple.com/kr/app/주식-무릎-어깨-알리미/id6753945464)
+  6. 주식·코인 무릎/어깨 알리미 : Stock Alert, **Biometric Auth** - [Android](https://play.google.com/store/apps/details?id=com.youngkiu.stock_knee_shoulder), [iOS](https://apps.apple.com/kr/app/주식-무릎-어깨-알리미/id6753945464)
 
 <h3>Contributed open source projects</h3>
 <table>
